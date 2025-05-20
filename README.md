@@ -21,6 +21,7 @@ Este é um projeto de bot desenvolvido para tocar músicas no Discord com foco e
 ## <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="20px"> Topicos
 
 - [Comandos do Bot](#comandos)
+  - [Respostas Do Bot](#respostas)
 - [Tecnologias Utilizadas](#tecnologias)
 
 
@@ -40,12 +41,64 @@ Este é um projeto de bot desenvolvido para tocar músicas no Discord com foco e
 
 `!pop` - Mostrar qual é a musica que está tocando agora no bot.
 
-`!sobre` - Mostra informações sobre o bot, as informações até o momento são: **Desenvolvedor do bot** e **Link do github do desenvolvedor** 
+`!sobre` - Mostra informações sobre o bot, as informações até o momento são: **Desenvolvedor do bot** e **Link do github do desenvolvedor**. 
+
+<br>
+O bot até o momento só possui esses comandos, outros comandos só serão adicionados se forem uma adição que não vá muito além da ideia de ser uma "radio".
+<br>
+<br>
+<br>
+
+<h3 id="respostas" align="center">
+   Respostas do Bot
+</h3>
+
+<!-- Conectar  -->
+
+<img src="./readme/image/IMG_20250520_101556.png" align="left" width="300px">
+
+<div align="center"> 
+
+`!conectar`
+ </div>
+O bot irá conectar ao canal de voz atual do usário, caso o usuário não tiver em um canal de voz, bot irá retornar uma mensagem pedindo que o usuário esteja em um canal de voz ao para executar o comando.
+<br>
+<br>
+
+<!-- Reconectar  -->
+
+<img src="./readme/image/reconectar.png" align="right" width="330px">
+
+<br>
+<div align="center"> 
+
+`!reconectar`
+ </div>
+O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
+<br>
+<br>
+
+<!-- pop  -->
+
+<img src="./readme/image/pop.png" align="left" width="330px">
+
+<br>
+<div align="center"> 
+
+`!pop`
+ </div>
+O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
 
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2 id="tecnologias">
   <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="25px"> Tecnologias Utilizadas
