@@ -17,8 +17,38 @@ Este é um projeto de bot desenvolvido para tocar músicas no Discord com foco e
 </div></h4>
 
 <br>
-<div align="center">
+
+## <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="20px"> Topicos
+
+- [Comandos do Bot](#comandos)
+- [Tecnologias Utilizadas](#tecnologias)
 
 
+<h2 id="comandos">
+  <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="25px"> Comandos do Bot
+</h2>
+
+<img align="right" width="290" src="./readme/image/IMG_20250519_235243.png">
+
+**Esse Bot possui os seguintes comandos:**
+
+`!info` - Mostra todos os comandos do bot.
+
+`!conectar` - Conectar o bot ao canal de voz atual do usuário.
+
+`!reconectar` - Se o bot cair. use esse comando e ele irá retornar para o canal de voz que ele foi adicionado anteriormente. 
+
+`!pop` - Mostrar qual é a musica que está tocando agora no bot.
+
+`!sobre` - Mostra informações sobre o bot, as informações até o momento são: **Desenvolvedor do bot** e **Link do github do desenvolvedor** 
+
+<br>
+<br>
+<br>
+
+
+<h2 id="tecnologias">
+  <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="25px"> Tecnologias Utilizadas
+</h2>
 
 
