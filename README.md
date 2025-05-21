@@ -1,6 +1,10 @@
-# Non Stop Pop Bot
+<img src="https://zeno.fm/_ipx/_/https://images.zeno.fm/V2VsIpKBPVxfcZcMn-sG5YZnOKHcV0K66urj8DYNx14/rs:fill:2048:512/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGc5cUdDckFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dvWXpZOVFvTW9nRUVlbVZ1YncvbWljcm9zaXRlL2JhY2tncm91bmRfaW1hZ2UvP3U9MTY2MTUzODk0NjAwMA.webp">
 
-<img align="right" alt="livro" width="290" src="https://static.wikia.nocookie.net/logopedia/images/7/70/Non-Stop-Pop_FM_print.png/revision/latest?cb=20240928121439">
+<br>
+<h1 align="center">Non Stop Pop FM</h1>
+
+
+<img align="right" alt="livro" width="290" src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt">
 
 <!-- about me -->
  <h3 align="left">Bot Discord Da Non Stop Pop FM 24/7</h3>
@@ -20,9 +24,11 @@ Este é um projeto de bot desenvolvido para tocar músicas no Discord com foco e
 
 ## <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="20px"> Topicos
 
+
 - [Comandos do Bot](#comandos)
   - [Respostas Do Bot](#respostas)
 - [Tecnologias Utilizadas](#tecnologias)
+- [Contato](#Contato)
 
 
 <h2 id="comandos">
@@ -65,6 +71,11 @@ O bot irá conectar ao canal de voz atual do usário, caso o usuário não tiver
 <br>
 <br>
 
+
+<br>
+<hr>
+
+
 <!-- Reconectar  -->
 
 <img src="./readme/image/reconectar.png" align="right" width="330px">
@@ -78,6 +89,10 @@ O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
 <br>
 <br>
 
+<br>
+<hr>
+
+
 <!-- pop  -->
 
 <img src="./readme/image/pop.png" align="left" width="330px">
@@ -87,15 +102,20 @@ O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
 
 `!pop`
  </div>
-O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
+O bot irá responder com o nome da música que está tocando no momento e o nome do artista dono da música.<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Caso nenhuma música esteja tocando, o bot irá responder que não tem nenhuma música tocando naquele momento.<br>
+
+Todas as melhores músicas da rádio estão presentes nesse bot:
+
+`Lady - Modjo`
+`1 Thing - Amerie`
+`Gimme More - Britney Spears`
+`Feel Good Inc. - Gorillaz`
+`Moves Like Jagger - Maroon 5`
+`Bad Girls - M.I.A.`
+
+E muitas outras.
 <br>
 <br>
 <br>
@@ -104,4 +124,26 @@ O bot irá reconectar ao canal de voz que ele se conectou anteriormente.
   <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="25px"> Tecnologias Utilizadas
 </h2>
 
+<br>
 
+<h2 id="Contato" align="center">
+  <img src="https://static.wikia.nocookie.net/gta/images/7/70/Non-stop-pop.png/revision/latest?cb=20150212115927&path-prefix=pt" width="25px"> Contato
+</h2>
+
+<!-- minhas redes  --> 
+  <div align="center"> 
+
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>ﾠ
+  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>ﾠ
+  <a href="https://github.com/Glauedson" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  </div>
+  <br>
+
+<img src="https://w0.peakpx.com/wallpaper/6/69/HD-wallpaper-city-video-game-grand-theft-auto-grand-theft-auto-v-los-santos.jpg">
